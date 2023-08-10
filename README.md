@@ -8,19 +8,14 @@ Selamat datang di repository Belajar Java! Repository ini didedikasikan untuk me
 ## Daftar Isi
 
 1. [Pendahuluan](#pendahuluan)
-2. [Instalasi JDK](#instalasi-jdk)
 3. [Hello World](#hello-world)
 4. [Struktur Dasar](#struktur-dasar)
 5. [Tipe Data](#tipe-data)
 6. [Percabangan](#percabangan)
 7. [Perulangan](#perulangan)
 8. [Fungsi dan Metode](#fungsi-dan-metode)
-9. [OOP (Pemrograman Berorientasi Objek)](#oop)
 10. [Pengelolaan Exception](#pengelolaan-exception)
-11. [Pustaka Standar Java](#pustaka-standar-java)
-12. [Proyek Mini](#proyek-mini)
-13. [Sumber Daya Tambahan](#sumber-daya-tambahan)
-14. [Kontribusi](#kontribusi)
+13. [Sumber Daya Tambahan](https://youtu.be/jiUxHm9l1KY)
 
 ## Pendahuluan
 
