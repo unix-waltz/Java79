@@ -28,7 +28,7 @@ Pada bagian ini, kita akan memberikan gambaran singkat tentang apa yang dapat An
 
 ## Instalasi JDK
 
-Langkah pertama sebelum mulai menulis kode Java adalah menginstal Java Development Kit (JDK) pada sistem Anda. Panduan instalasi lengkap dapat ditemukan di [sini](instalasi-jdk.md).
+Langkah pertama sebelum mulai menulis kode Java adalah menginstal Java Development Kit (JDK) pada sistem Anda. Panduan instalasi lengkap dapat ditemukan di [sini](https://www.oracle.com/id/java/technologies/downloads/).
 
 ## Hello World
 
